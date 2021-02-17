@@ -53,9 +53,9 @@ Just be sure to add the WIP keyword somewhere in the title and/or add the `WIP` 
 ## Reviewer - *the peer*
 Depending on the subject of the PR, you can assign non-technical people as reviewers:
 - member of the product team to review the docs, user stories or screenshots
-- member of the comm team to review spelling, relevance of keyword use, ...
-- member of UX UI or graphical, to review screenshot and user stories in practice, 
-> to do this the best way possible feature branches could be deployed and testable soemwhere though
+- member of the comms team to review spelling, relevance of keyword use, images and wording
+- member of UX-UI or graphical team to review images, screenshots, design and user stories in practice 
+> to do this in the best way possible, feature branches should be deployed and testable somewhere.
 
 - At least 2 reviewer should be assigned to a PR.
 - Reviewers!
