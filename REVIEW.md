@@ -51,7 +51,7 @@ Just be sure to add the WIP keyword somewhere in the title and/or add the `WIP` 
 > The title and description of the PR will use this information.
 
 ## Reviewer - *the peer*
-Depending on the subject of you can assign non technical people as reviewers:
+Depending on the subject of the PR, you can assign non-technical people as reviewers:
 - member of the product to review doc, story or screeshot
 - member of the comm team to review spelling, relevance of keyword use, ...
 - member of UX UI or graphical, to review screenshot and user stories in practice, 
