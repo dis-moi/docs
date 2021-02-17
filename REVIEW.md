@@ -22,7 +22,7 @@ For commit messages and we use Conventionnal commits convention.
 Beware, a single commit shouldn't break anything (nor the test, nor the app, nor anythign.
 We should be able to checkout any commits and run the app without any issues.
 
-> When unsure just squash everyhting.
+> When unsure just squash everything.
 
 ## History
 Keep your history clean! There can be many commits or only one, as long as the story told is consistent.
@@ -80,5 +80,4 @@ There are plenty of excellent resource out there feel freee to add anything rele
 
 ## Tools
 Any tools that could help to be a git, gihub power user?
-
 
