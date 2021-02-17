@@ -72,7 +72,7 @@ Mind the state of the review :
 - comment
 - request changes
 
-If the PR is approved, it's approved period, even if there are comments left, its just mean it's not these notices aren't that important after all.
+If the PR is approved, it's approved, period. Even if there are comments left, it just means these comments are not blocking, and may be taken care of later.
 If one of the reviewers requests changes, the changes must be applied or the reviewer must be convinced otherwise until the PR is approved.
 Once changes are applied, the PR author should then request a re-review (there is a button for that).
 
