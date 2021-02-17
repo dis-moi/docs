@@ -18,9 +18,10 @@ Or `chore`, `docs` or any other word you see fit!
 > We use Conventional commits for commit messages, and this branch naming is inspired by the keywords used there
 
 ## Commits
-For commit messages and we use Conventionnal commits convention.
-Beware, a single commit shouldn't break anything (nor the test, nor the app, nor anythign.
-We should be able to checkout any commits and run the app without any issues.
+For commit messages we use the Conventional commits convention.
+Beware, a single commit shouldn't break anything (whether the test, or the app, or anything).
+We should be able to check out any commits and run the app without any issues.
+Also, we should try to keep commits small. Try to include only the smallest amount of change that keeps it atomic. In other words, let's create commits that only do one thing.
 
 > When unsure just squash everything.
 
@@ -80,4 +81,3 @@ There are plenty of excellent resource out there feel freee to add anything rele
 
 ## Tools
 Any tools that could help to be a git, gihub power user?
-
