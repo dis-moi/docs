@@ -9,10 +9,10 @@ Someone theorized about *Egoless programming* which fits our overall philosophy 
 > https://en.wikipedia.org/wiki/Egoless_programming
 
 ## Branch
-When starting to work on a subject on any project, the first thing to do is creating your own branch.
-The base branch should be `master` and the new branch should reflect the subject you are working on:
+When starting to work on a subject on any project, the first thing to do is create your own branch.
+The base branch should be `main` and the new branch should reflect the subject you are working on:
 - a new feature must be prefixed by `feat/` ex: `feat/new-contribution-form`
-- a bug fix can be prefiexed by `fix/`
+- a bug fix can be prefixed by `fix/`
 Or `chore`, `docs` or any other word you see fit!
 
 > We use Conventional commits for commit messages, and this branch naming is inspired by the keywords used there
