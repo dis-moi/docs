@@ -28,7 +28,7 @@ Also, we should try to keep commits small. Try to include only the smallest amou
 ## History
 Keep your history clean! There can be many commits or only one, as long as the story told is consistent.
 If you the history doesn't feel right, just be a negationist and use (and abuse) `git rebase -i`. 
-Just as long as you don't reright other people's history it's fine (really).
+Just as long as you don't overwrite other people's history it's fine (really).
 
 And if you feel like, feel freer to `squash` your branch history into a single commit.
 
