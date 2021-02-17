@@ -15,7 +15,7 @@ The base branch should be `master` and the new branch should reflect the subject
 - a bug fix can be prefiexed by `fix/`
 Or `chore`, `docs` or any other word you see fit!
 
-> We use Conventionnal commits for commit message, and this branch naming is inspired by the keywords use there
+> We use Conventional commits for commit messages, and this branch naming is inspired by the keywords used there
 
 ## Commits
 For commit messages and we use Conventionnal commits convention.
@@ -80,6 +80,5 @@ There are plenty of excellent resource out there feel freee to add anything rele
 
 ## Tools
 Any tools that could help to be a git, gihub power user?
-
 
 
