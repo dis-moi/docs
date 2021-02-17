@@ -5,7 +5,7 @@ We rely on peer review as much as possible :
 > https://en.wikipedia.org/wiki/Peer_review
 
 Try to be as benevolent as possible when reviewing your peers. 
-Someone theorise *Egoless programming* that fits our overall philosophy quite well.
+Someone theorized about *Egoless programming* which fits our overall philosophy quite well.
 > https://en.wikipedia.org/wiki/Egoless_programming
 
 ## Branch
