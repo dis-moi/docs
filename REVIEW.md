@@ -33,8 +33,7 @@ Just as long as you don't overwrite other people's history it's fine (really).
 And if you feel like, feel freer to `squash` your branch history into a single commit.
 
 ## Pull/Merge request
-When ready you can open a Pull Request targeting the main branch.
-> BTW shall we rename `master` to `main`?
+When ready you can open a Pull Request targeting the `main` branch.
 
 OR not! You can open the PR as soon as you create your branch, 
 this can be relevant to keep other team members posted. 
