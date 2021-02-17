@@ -73,11 +73,16 @@ Mind the state of the review :
 - request changes
 
 If the PR is approved, it's approved period, even if there are comments left, its just mean it's not these notices aren't that important after all.
-If one of the reviewer requested changes, changes must be applied or he must convinced otherwise until changes are approved. 
-And then request a re-review (there is a button for that)
+If one of the reviewers requests changes, the changes must be applied or the reviewer must be convinced otherwise until the PR is approved.
+Once changes are applied, the PR author should then request a re-review (there is a button for that).
 
 ## Resources
-There are plenty of excellent resource out there feel freee to add anything relevant here
+There are plenty of excellent resources out there, so feel free to add anything relevant here.
 
 ## Tools
-Any tools that could help to be a git, gihub power user?
+Any tools that could help folks to become a Git, Github power user?
+
+- [Managing your work on GitHub](https://docs.github.com/en/github/managing-your-work-on-github)
+- [Using Git](https://docs.github.com/en/github/using-git)
+- [A Step-by-Step Guide to Git](https://opensource.com/article/18/1/step-step-guide-git)
+- [How to become a Git expert](https://www.freecodecamp.org/news/how-to-become-a-git-expert-e7c38bf54826/)
