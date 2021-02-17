@@ -52,7 +52,7 @@ Just be sure to add the WIP keyword somewhere in the title and/or add the `WIP` 
 
 ## Reviewer - *the peer*
 Depending on the subject of the PR, you can assign non-technical people as reviewers:
-- member of the product to review doc, story or screeshot
+- member of the product team to review the docs, user stories or screenshots
 - member of the comm team to review spelling, relevance of keyword use, ...
 - member of UX UI or graphical, to review screenshot and user stories in practice, 
 > to do this the best way possible feature branches could be deployed and testable soemwhere though
