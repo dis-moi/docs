@@ -1,5 +1,5 @@
 # Review process
-> This is a general process, a project specific process must be documented in its own repository.
+> This is a general process used across Dismoi by default. A project-specific process must be documented in its own repository.
 
 We rely on peer review as much as possible :
 > https://en.wikipedia.org/wiki/Peer_review
