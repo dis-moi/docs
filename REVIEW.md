@@ -37,7 +37,7 @@ When ready you can open a Pull Request targeting the main branch.
 > BTW shall we rename `master` to `main`?
 
 OR not! You can open the PR as soon as you create your branch, 
-this can be relevant to keep other team member posted. 
+this can be relevant to keep other team members posted. 
 Just be sure to add the WIP keyword somewhere in the title and/or add the `WIP` label to your PR.
 
 > Also if your PR relate to an issue in any way, don't forget to mention it (#42 for issue number 42)
