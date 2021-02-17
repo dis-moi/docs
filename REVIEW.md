@@ -57,11 +57,11 @@ Depending on the subject of the PR, you can assign non-technical people as revie
 - member of UX-UI or graphical team to review images, screenshots, design and user stories in practice 
 > to do this in the best way possible, feature branches should be deployed and testable somewhere.
 
-- At least 2 reviewer should be assigned to a PR.
+- At least 2 reviewers should be assigned to a PR.
 - Reviewers!
-  - Please be dilligent with your reviews! From our experience, PR which aren't reviewed soon tend to wait... wait.. sometime for months...even years! (I just closed a 7 years old PR recently)
-  - Tip: If you don't understand anything you're reading, you're might not be the right person for the job! And that's OK! 
-  Just let us know and we'll help you understand or choose another person fitting the task (at least try to look for typo:))
+  - Please be diligent with your reviews! From our experience, PR which aren't reviewed quickly tend to wait... wait.. sometimes for months...even years! (I just closed a 7 year old PR recently)
+  - Tip: If you don't understand anything you're reading, you might not be the right person for the job! And that's OK! 
+  Just let us know and we'll help you understand or choose another person suited to the task (at least try to look for typos :) )
   - We love our work to be read by others (who said egoless?!) so please try to show you care and leave some comments in the diff!
 - A PR should be merged in the next 72h? at most
 - You must have at least one approval to merge a PR
